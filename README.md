@@ -7,7 +7,7 @@ The dataset is divided into three files:
 1. **Notebandi_tweets_with_language.txt**: This file contains tweet id followed by the corresponding tweet that tokenized and each token is tagged with a language tag (en/hi/rest). 
 
 
-1. **Notebandi_tweet_stance.txt**: This file contains tweet id followed by a stance label (FAVOR/AGAINST/NONE) that indicates the stance of the user and then a blank line.
+1. **Notebandi_tweets_stance.txt**: This file contains tweet id followed by a stance label (FAVOR/AGAINST/NONE) that indicates the stance of the user and then a blank line.
 
 
 # Classification system
